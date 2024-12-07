@@ -2,10 +2,6 @@
 9.2. Write a program in C to count the number of vowels and consonants in a string using a pointer.
 */
 
-/* 
-9.2. Write a program in C to count the number of vowels and consonants in a string using a pointer.
-*/
-
 #include <stdio.h> 
 int main() {
     char str[1000];
