@@ -2,10 +2,6 @@
 9.3. Write a program in C to find the factorial of a given number using pointers.
 */
 
-/* 
-9.3. Write a program in C to find the factorial of a given number using pointers.
-*/
-
 #include <stdio.h>
 void findFactorial(int *num, int *result) {
     *result = 1;
