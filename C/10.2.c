@@ -2,10 +2,6 @@
 10.2. Write a program in C to use realloc() to dynamically increase the size of an already allocated array.
 */
 
-/* 
-10.2. Write a program in C to use realloc() to dynamically increase the size of an already allocated array.
-*/
-
 #include <stdio.h>
 #include <stdlib.h>
 int main() {
