@@ -2,10 +2,6 @@
 9.1. Write a program to read and print a text. Also count the words and characters in the given text.
 */
 
-/* 
-9.1. Write a program to read and print a text. Also count the words and characters in the given text.
-*/
-
 #include <stdio.h>
 int main() {
     char text[1000];
